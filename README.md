@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhsinOztufekci
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Codeigniter
+- 🌱 I’m currently develoing Codeigniter project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muhsinoztufek@gmail.com
 
