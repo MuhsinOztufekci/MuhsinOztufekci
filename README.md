@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhsinOztufekci
 - 👀 I’m interested in ...
-- 🌱 I’m currently developing Codeigniter project
+- 🌱 I’m currently intern at Flo Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muhsinoztufek@gmail.com
 
