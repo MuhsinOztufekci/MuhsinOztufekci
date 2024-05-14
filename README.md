@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MuhsinOztufekci
-- 👀 I’m interested in ...
-- 🌱 I’m currently intern at Flo Technology
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Backend Development 
+- 🌱 I’m currently looking for internship or junior position.
 - 📫 How to reach me muhsinoztufek@gmail.com
 
 <!---
